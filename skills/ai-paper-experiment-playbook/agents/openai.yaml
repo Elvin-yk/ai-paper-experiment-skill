@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Paper Experiment Playbook"
+  short_description: "Reusable workflow for AI paper experiments."
+  default_prompt: "Use $ai-paper-experiment-playbook to plan reproducible experiments, debug failures, and summarize paper-ready results."
