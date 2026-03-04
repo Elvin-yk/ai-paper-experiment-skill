@@ -23,6 +23,12 @@ Then invoke it in chat with:
 $ai-paper-experiment-playbook
 ```
 
+Or install directly from GitHub with Codex skill installer:
+
+```text
+$skill-installer install https://github.com/Elvin-yk/ai-paper-experiment-skill/tree/main/skills/ai-paper-experiment-playbook
+```
+
 ## Trigger Examples
 
 - "Use $ai-paper-experiment-playbook to debug this metric regression."
